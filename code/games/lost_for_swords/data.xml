@@ -2,7 +2,7 @@
 
 <game>
 	<title>Lost For Swords</title>
-	<release-date>coming soon</release-date>
+	<release-date>Coming Soon</release-date>
 	<website>https://max-bytes.github.io/lfs-presskit/lost_for_swords</website>
 	<!-- <press-can-request-copy>TRUE</press-can-request-copy> -->
 
@@ -45,12 +45,12 @@
 	</prices> -->
 
 	<description>
-	Lost For Swords is a Roguelike Deckbuilder, where the cards in your deck shape the rooms you’re exploring. Make your way up the tower, equip weapons and armor, cast spells and scrolls, activate auras, collect loot and defeat monsters in tactical turn-based combat.
+	Lost For Swords is a Roguelike Deckbuilder, where the cards in your deck shape the rooms you're exploring. Make your way up the tower, equip weapons and armor, cast spells and scrolls, activate auras, collect loot and defeat monsters in tactical turn-based combat.
 	</description>
 	
-	<!-- <history>
-	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</history> -->
+	<history>
+	I've always wanted to create a digital card game, one that has a very low input complexity (no card dragging, no "hand", no menus or inventories), and yet offers strategic and deep gameplay. Lost For Swords is my best attempt at such a game!
+	</history>
 
 	<features>
 		<feature>Deck Building and Playstyles: build and refine your deck as you fight your way up the towers. Choose wisely and craft the best deck from 100+ available cards. Play offensive or defensive, sneaky or powerful, deliberate or reckless. You decide!</feature>
@@ -117,18 +117,18 @@
 		</quote> -->
 	</quotes>
 	
-	<!-- <additionals>
+	<additionals>
 		<additional>
-			<title>Original Soundtrack</title>
-			<description>Available for free from</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Discord</title>
+			<description>Discord Invite</description>
+			<link>https://discord.gg/ySbqSx9gND</link>
 		</additional>
-		<additional>
+		<!-- <additional>
 			<title>Release Blog Post</title>
 			<description>The blog-post through which this game was released is available at</description>
 			<link>http://vlambeer.com/bloglink</link>
-		</additional>
-	</additionals> -->
+		</additional> -->
+	</additionals>
 	
 	<credits>
 		<credit>
