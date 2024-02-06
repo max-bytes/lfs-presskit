@@ -100,7 +100,7 @@
 		</quote> -->
 	</quotes>
 	
-	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<!-- <press-can-request-copy>TRUE</press-can-request-copy> -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
 																			 	ask (permission on case-per-case basis),
 																			 	non-commercial (no monetization allowed),

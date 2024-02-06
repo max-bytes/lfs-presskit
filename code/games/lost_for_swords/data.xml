@@ -3,8 +3,8 @@
 <game>
 	<title>Lost For Swords</title>
 	<release-date>coming soon</release-date>
-	<!-- <website>https://store.steampowered.com/app/2638050/Lost_For_Swords/</website> -->
-	<press-can-request-copy>TRUE</press-can-request-copy>
+	<website>https://max-bytes.github.io/lfs-presskit/lost_for_swords</website>
+	<!-- <press-can-request-copy>TRUE</press-can-request-copy> -->
 
 	<platforms>
 		<platform>
