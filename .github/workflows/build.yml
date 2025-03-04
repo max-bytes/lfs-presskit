@@ -19,9 +19,9 @@ jobs:
 
     - name: Crawl
       run: |
-        while ! nc -z localhost 8080; do sleep 0.1; done; # Wait for server to start
+        while ! nc -z localhost 80; do sleep 0.1; done; # Wait for server to start
         mkdir -p output
-        wget -P output -nH --mirror --adjust-extension --page-requisites --no-parent http://127.0.0.1:8080
+        wget -P output -nH --mirror --adjust-extension --page-requisites --no-parent http://127.0.0.1:80
 
     - name: Stop containers
       if: always()
